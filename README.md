@@ -85,12 +85,6 @@ For **~1.5 years of self-taught experience with no formal background**, that mix
 
 ## Building
 
-> Requires **Unity 2022.3 LTS** (developed on `2022.3.7f1`).
-
-1. Clone the repository.
-2. Add the project folder in **Unity Hub** and open it with a matching 2022.3 editor.
-3. Open a scene under `Assets/` and press **Play**.
-
 ### Third-party code
 
 Almost all gameplay code under `Assets/Scripts/` is my own. The exceptions are clearly isolated:
