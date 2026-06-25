@@ -1,7 +1,4 @@
 # Bonfire
-<div align="center">
-<img width="3319" height="1400" alt="Bonfire3" src="https://github.com/user-attachments/assets/4f3823de-8391-401a-a5c1-64b73dc00fe7" width = "600"/>
- </div>
 
 > A third-person **soulslike prototype** built in **Unity (C#)** — my **first-ever 3D game and my first real codebase**.
 
@@ -11,6 +8,11 @@ I share it openly and honestly: parts of it are clearly **beginner code**, but i
 
 > **Status — early learning project, unfinished.** The value here is the **learning curve and the early instincts**, not polish or feature-completeness.
 
+<div align="center">
+<img width="3319" height="1400" alt="Bonfire3" src="https://github.com/user-attachments/assets/4f3823de-8391-401a-a5c1-64b73dc00fe7" width = "600"/>
+ </div>
+
+ 
 ---
 
 ## Where this fits in my development
