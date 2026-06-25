@@ -1,4 +1,7 @@
 # Bonfire
+<div align="center">
+<img width="3319" height="1400" alt="Bonfire3" src="https://github.com/user-attachments/assets/4f3823de-8391-401a-a5c1-64b73dc00fe7" width = "600"/>
+ </div>
 
 > A third-person **soulslike prototype** built in **Unity (C#)** — my **first-ever 3D game and my first real codebase**.
 
@@ -28,6 +31,11 @@ Several threads in my later projects can be traced directly back to here:
 - **Genre:** even the name *Bonfire* marks the start of the **soulslike line** (HP, stamina, lock-on, souls, bonfire respawn) that runs through every project since.
 
 Everything under `Assets/Scripts/` is my own work, with two clearly-marked exceptions noted below.
+
+<div align="center">
+<img width="1702" height="1054" alt="Bonfire" src="https://github.com/user-attachments/assets/4f8d04ee-cd35-4e0e-b855-1e1b8e094de3"width = "600" />
+</div>
+
 
 ---
 
@@ -81,9 +89,8 @@ I'm keeping this honest because the **learning curve is the point**:
 
 For **~1.5 years of self-taught experience with no formal background**, that mix is what makes the jump to my later, much cleaner projects credible. The procedural-generation work in particular I treat as **proof of learning ability and breadth, not a current core competency** — I haven't used Unity/C# or procedural generation actively since.
 
----
 
-## Building
+
 
 ### Third-party code
 
@@ -93,6 +100,11 @@ Almost all gameplay code under `Assets/Scripts/` is my own. The exceptions are c
 - `Assets/NavMeshComponents/` — Unity's official NavMeshComponents package, not my code.
 
 ---
+
+<div align="center">
+<img width="1896" height="1188" alt="Bonfire2" src="https://github.com/user-attachments/assets/7123ec65-bf80-4db7-86d2-c09803e751fb"width = "600" />
+</div>
+
 
 ## License
 
